@@ -5,3 +5,5 @@ Küçük Hatalar Giderildi.
 Geçmiş Ekranı-İstatistik-Dosya Aktarma Eklendi.
 Ana Ekranda Seçilen Dosya Ve Klasör Tıklayıp Açılabilir.
 Durum Bildirimleri İyileştirmeleri.
+Projeler Listesi Eklendi.
+Güncellemeler Versiyon Bilgisi Ekranından Yapılabilir.
