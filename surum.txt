@@ -1,9 +1,9 @@
-2.3
+2.1
 C907AC3003162344137AE864316FBEF8C1BF08399F78C2BF887860E40C74D550
 Arayüz İyileştirmeleri.
-Küçük Hatalar Giderildi.
-Geçmiş Ekranı-İstatistik-Dosya Aktarma Eklendi.
-Ana Ekranda Seçilen Dosya Ve Klasör Tıklayıp Açılabilir.
 Durum Bildirimleri İyileştirmeleri.
+Küçük Hatalar Giderildi.
 Projeler Listesi Eklendi.
-Güncellemeler Versiyon Bilgisi Ekranından Yapılabilir.
+Güncellemeler 'Versiyon Bilgisi' Ekranından Yapılabilir.
+Ana Ekranda Seçilen Dosya Ve Klasör Tıklanıp Açılabilir.
+Geçmiş Ekranı-İstatistik-Dosya Aktarma Eklendi.
