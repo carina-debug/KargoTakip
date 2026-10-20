@@ -1,2 +1,4 @@
 2.1
 55CB137DE50400F2418A1ED250D2BE34EA01520C241C85B862E70723B70795A3
+Küçük Hata Düzeltmeleri Yapıldı.
+Geçmiş Sekmesi ve Ana Ekran Düzenleme Yapıldı.
