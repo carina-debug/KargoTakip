@@ -2,7 +2,7 @@
 CFFCE43011666450292268E8476AB3B668F2EDA6CB426E62FB88274EBE1D46C0
 Arayüz İyileştirmeleri.
 Küçük Hatalar Giderildi.
-Projeler Listesi Eklendi.
+Projeler Bölümü Eklendi.
 Güncellemeler 'Versiyon Bilgisi' Ekranından Yapılabilir.
 Ana Ekranda-Seçilen Dosya Ve Klasör etikete Tıklanıp Açılabilir.
 Geçmiş Ekranı-İstatistik-Dosya Aktarma Butonlar Eklendi.
