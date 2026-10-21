@@ -1,9 +1,8 @@
-2.1
-C907AC3003162344137AE864316FBEF8C1BF08399F78C2BF887860E40C74D550
+2.2
+CFFCE43011666450292268E8476AB3B668F2EDA6CB426E62FB88274EBE1D46C0
 Arayüz İyileştirmeleri.
-Durum Bildirimleri İyileştirmeleri.
 Küçük Hatalar Giderildi.
 Projeler Listesi Eklendi.
 Güncellemeler 'Versiyon Bilgisi' Ekranından Yapılabilir.
-Ana Ekranda Seçilen Dosya Ve Klasör Tıklanıp Açılabilir.
-Geçmiş Ekranı-İstatistik-Dosya Aktarma Eklendi.
+Ana Ekranda-Seçilen Dosya Ve Klasör etikete Tıklanıp Açılabilir.
+Geçmiş Ekranı-İstatistik-Dosya Aktarma Butonlar Eklendi.
