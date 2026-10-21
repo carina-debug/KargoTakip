@@ -4,5 +4,5 @@ Arayüz İyileştirmeleri.
 Küçük Hatalar Giderildi.
 Projeler Bölümü Eklendi.
 Güncellemeler 'Versiyon Bilgisi' Ekranından Yapılabilir.
-Ana Ekranda-Seçilen Dosya Ve Klasör etikete Tıklanıp Açılabilir.
+Ana Ekranda-Seçilen Dosya Ve Klasör Tıklanıp Açılabilir.
 Geçmiş Ekranı-İstatistik-Dosya Aktarma Butonlar Eklendi.
